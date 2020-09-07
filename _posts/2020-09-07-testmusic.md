@@ -3,4 +3,4 @@
 Your browser does not support the video tag.
 </video>
 
-<img src="/_images/avatar" alt="avatar">
+<img src="/images/avatar.jpeg" alt="avatar">
