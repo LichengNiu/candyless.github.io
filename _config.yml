@@ -18,7 +18,7 @@ avatar: /images/avatar.jpeg
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email:
+  email: niulicheng@gmail.com
   facebook:
   flickr:
   github:
@@ -85,4 +85,4 @@ exclude:
   - README.md
   - CNAME
 
-theme: jekyll-theme-minimal
+theme: jekyll-theme-hacker
