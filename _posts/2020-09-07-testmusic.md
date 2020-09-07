@@ -2,3 +2,5 @@
   <source src="/_media/hunting-the-beast.mp3" type="audio/mpeg">
 Your browser does not support the video tag.
 </video>
+
+<img src="/_images/avatar" alt="avatar">
