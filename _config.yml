@@ -3,7 +3,7 @@
 #
 
 # Name of your site (displayed in the header)
-name: candyless's Blog 
+name: Candyless's Blog 
 
 # Short bio or description (displayed in the header)
 descrition: all my faith lost...
@@ -84,5 +84,3 @@ exclude:
   - LICENSE
   - README.md
   - CNAME
-
-theme: jekyll-theme-minimal
